@@ -1,1 +1,1 @@
-<?php include_once("baseballSearch.html"); ?>
+<?php include_once("baseballSeach.html"); ?>
