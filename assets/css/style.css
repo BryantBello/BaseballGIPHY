@@ -1,0 +1,63 @@
+     body{
+        background-color: black;
+         }
+     h1 {
+        background-color: blue;
+        color: white;
+        width: 100%;
+        text-align: center;
+        padding: 50px 50px 50px 50px;
+        }
+    label, p{
+      color: white;
+    
+        }
+  button, form, input {
+            margin: 10px;
+        
+        }
+  button{
+          background-color: blue;
+          color: white;
+          position: relative;
+          padding: 4px;
+        }
+   button:active {
+        color: red;
+        } 
+   button:focus {outline:0;}
+      #addBaseball:active {
+      color: red;
+      } 
+        #Addbaseball{
+          background-color: blue;
+          color: white;
+        }
+        #Addbaseball:focus {
+          outline:0;
+        }
+        .baseballDiv {
+          
+            width: 50%;
+           padding: 10px;
+       line-height: 100%;
+        }
+        #diamond{
+        background-color: blue;
+        color: white;
+        width:  125px;
+        height: 40px;
+        padding-top: 10px;
+        font-size: 25px;
+  
+         }
+  
+  img, p{
+    margin-left: 75%;
+    margin-right: 75%;
+  }
+  footer{
+    text-align: center;
+    font-size:12px;
+    color:red;
+  }
